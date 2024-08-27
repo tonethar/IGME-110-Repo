@@ -4,6 +4,9 @@
 
 ## Level-2 header
 
+- RIT
+- https://www.rit.edu/
+
 - red
 - green
 - blue
@@ -13,9 +16,3 @@
 3. yellow
 
 *Italic text*
-
-dogs
-
-are
-
-cool
