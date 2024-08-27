@@ -8,4 +8,8 @@
 - green
 - blue
 
+1. cyan
+2. magenta
+3. yellow
+
 *Italic text*
