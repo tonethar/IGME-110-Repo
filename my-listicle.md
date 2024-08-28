@@ -1,5 +1,5 @@
-# TOny's Food Listicle
+# Tony's Food Listicle
 
 
-- Tacos
-- Hummous
+- [Tacos](https://en.wikipedia.org/wiki/Taco)
+- [Hummus](https://en.wikipedia.org/wiki/Hummus)
